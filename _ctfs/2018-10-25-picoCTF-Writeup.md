@@ -1,8 +1,7 @@
 ---
 title: 2018 Pico CTF Writeup
 date: 2018-10-25
-tags: [PicoCTF]
-categories: [CTF]
+ctf: Pico CTF
 ---
 
 > NickName : ind3x
