@@ -1,8 +1,8 @@
 ---
 title: "2019 Defcon CTF speedrun-003"
 date: 2020-1-4
-tags: [Defcon]
-categories: [Defcon]
+ctf: Defcon CTF
+layout: post
 ---
 
 쉘코드를 실행시켜야하는 문제다. 아래에서 쉘코드를 실행시켜주는데 조건을 만족 시켜아한다.

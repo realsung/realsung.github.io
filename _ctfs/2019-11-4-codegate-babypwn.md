@@ -1,8 +1,8 @@
 ---
+layout: post
 title: "2017 Codegate babypwn"
 date: 2019-11-4
-tags: [Codegate]
-categories: [Codegate]
+ctf: Codegate CTF
 ---
 
 Reverse Shell을 열어서 풀면 된다.

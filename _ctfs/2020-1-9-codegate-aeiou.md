@@ -1,8 +1,8 @@
 ---
 title: "2019 Codegate aeiou"
 date: 2020-1-9
-tags: [Codegate]
-categories: [Codegate]
+ctf: Codegate CTF
+layout: post
 ---
 
 64bit 바이너리가 주어진다.

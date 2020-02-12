@@ -1,8 +1,8 @@
 ---
 title: "[HackCTF]Register"
 date: 2020-1-27
-tags: [HackCTF]
-categories: [HackCTF]
+ctf: HackCTF
+layout: post
 ---
 
 메인에서는 alarm함수로 5초후 시그널 보낸다.

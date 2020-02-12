@@ -1,8 +1,8 @@
 ---
 title: "[pwnable.xyz]bookmark"
 date: 2020-2-1
-tags: [pwnable.xyz]
-categories: [pwnable.xyz]
+ctf: Pwnable.xyz
+layout: post
 ---
 
 랭킹 1페이지 찍엇당..

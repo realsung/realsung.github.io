@@ -1,8 +1,8 @@
 ---
 title: "[HackCTF]World Best Encryption Tool"
 date: 2020-1-28
-tags: [HackCTF]
-categories: [HackCTF]
+ctf: HackCTF
+layout: post
 ---
 
 Partial RELRO, Canary, NX 걸려있다.

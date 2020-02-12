@@ -1,8 +1,8 @@
 ---
 title: "[HackCTF]RTC"
 date: 2019-12-22
-tags: [HackCTF]
-categories: [HackCTF]
+ctf: HackCTF
+layout: post
 ---
 
 Return To Csu에 대해 이론 공부하고 나서 HackCTF RTC를 풀게되었는데 Chaining하는게 좀 재밌었다. 

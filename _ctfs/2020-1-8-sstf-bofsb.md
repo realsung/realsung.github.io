@@ -1,8 +1,8 @@
 ---
 title: "2019 SSTF bofsb"
 date: 2020-1-6
-tags: [SSTF]
-categories: [SSTF]
+ctf: SSTF CTF
+layout: post
 ---
 
 32비트 바이너리다. 메인은 1,2 입력받아서 각각 format에 Black, White 저장해준다. 그리고 name 주소를 magic code라면서 준다. 이름을 입력하는 곳에서는 bof가 터진다. 그리고  `printf(format);` 에서는 FSB가 터진다. 

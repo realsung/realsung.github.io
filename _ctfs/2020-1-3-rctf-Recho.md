@@ -1,8 +1,8 @@
 ---
 title: "2017 RCTF Recho"
 date: 2020-1-3
-tags: [RCTF]
-categories: [RCTF]
+ctf: RCTF
+layout: post
 ---
 
 64비트 바이너리가 주어진다.

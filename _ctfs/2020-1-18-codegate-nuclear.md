@@ -1,8 +1,8 @@
 ---
 title: "2014 Codegate nuclear"
 date: 2020-1-18
-tags: [Codegate]
-categories: [Codegate]
+ctf: Codegate CTF
+layout: post
 ---
 
 32비트 바이너리고 소켓짜놨다. 포트는 1129로 열어놨다. 보호기법은 Partial RELRO, NX만 걸려있다.

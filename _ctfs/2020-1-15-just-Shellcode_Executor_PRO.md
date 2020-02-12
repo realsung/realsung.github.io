@@ -1,8 +1,8 @@
 ---
 title: "2019 just CTF Shellcode Executor PRO"
 date: 2020-1-15
-tags: [just]
-categories: [just]
+ctf: Just CTF
+layout: post
 ---
 
 

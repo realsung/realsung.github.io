@@ -1,8 +1,8 @@
 ---
 title: "[pwnable.xyz]Dirty Turtle"
 date: 2020-2-2
-tags: [pwnable.xyz]
-categories: [pwnable.xyz]
+ctf: Pwnable.xyz
+layout: post
 ---
 
 원하는 주소에 원하는 값을 쓸 수 있다.

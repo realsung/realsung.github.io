@@ -1,8 +1,8 @@
 ---
 title: "2019 CSAW CTF small_boi"
 date: 2020-1-23
-tags: [CSAW]
-categories: [CSAW]
+ctf: CSAW CTF
+layout: post
 ---
 
 매우 작은 바이너리다. SigReturn Oriented Programming을 이용해서 풀 수 있다.

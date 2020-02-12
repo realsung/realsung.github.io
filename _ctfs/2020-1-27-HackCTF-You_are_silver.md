@@ -1,8 +1,8 @@
 ---
 title: "[HackCTF]You are silver"
 date: 2020-1-27
-tags: [HackCTF]
-categories: [HackCTF]
+ctf: HackCTF
+layout: post
 ---
 
 main에서 fsb일어난다.

@@ -1,8 +1,8 @@
 ---
 title: "[pwnable.xyz]Hero Factory"
 date: 2020-2-2
-tags: [pwnable.xyz]
-categories: [pwnable.xyz]
+ctf: Pwnable.xyz
+layout: post
 ---
 
 PIE빼고 다 걸려있다.

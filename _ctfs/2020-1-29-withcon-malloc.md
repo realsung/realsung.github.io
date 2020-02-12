@@ -1,8 +1,8 @@
 ---
 title: "2016 WITHCON malloc"
 date: 2020-1-29
-tags: [WITHCON]
-categories: [WITHCON]
+ctf: WITHCON CTF
+layout: post
 ---
 
 heap exploit문제다. 메인에서 스택주소라면서 main함수의 rbp-8 위치의 주소를 출력해줍니다.

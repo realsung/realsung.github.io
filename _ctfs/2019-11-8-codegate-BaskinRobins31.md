@@ -1,8 +1,8 @@
 ---
+layout: post
 title: "2018 Codegate BaskinRobins31"
 date: 2019-11-8
-tags: [Codegate]
-categories: [Codegate]
+ctf: Codegate CTF
 ---
 
 > puts leak

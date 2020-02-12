@@ -1,8 +1,8 @@
 ---
+layout: post
 title: "2016 Codegate Watermelon"
 date: 2019-11-13
-tags: [Codegate]
-categories: [Codegate]
+ctf: Codegate CTF
 ---
 
 이름을 입력하는 곳을 보면 전역변수(bss) 영역에 scanf를 받게 된다.

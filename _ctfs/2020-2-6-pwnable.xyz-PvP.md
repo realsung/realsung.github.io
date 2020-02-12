@@ -1,8 +1,8 @@
 ---
 title: "[pwnable.xyz]PvP"
 date: 2020-2-6
-tags: [pwnable.xyz]
-categories: [pwnable.xyz]
+ctf: Pwnable.xyz
+layout: post
 ---
 
 srand(time(0))의 랜덤 값만큼 x에 계속 붙여 쓸 수 있다.

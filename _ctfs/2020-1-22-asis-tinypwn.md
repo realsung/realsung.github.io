@@ -1,8 +1,8 @@
 ---
 title: "2018 ASIS CTF TinyPwn"
 date: 2020-1-22
-tags: [ASIS]
-categories: [ASIS]
+ctf: ASIS CTF
+layout: post
 ---
 
 매우 작은 바이너리다.

@@ -1,8 +1,8 @@
 ---
 title: "[pwnable.xyz]password"
 date: 2020-2-4
-tags: [pwnable.xyz]
-categories: [pwnable.xyz]
+ctf: Pwnable.xyz
+layout: post
 ---
 
 보호기법 다 걸려있다.

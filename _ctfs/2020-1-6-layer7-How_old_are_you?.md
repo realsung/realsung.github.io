@@ -1,8 +1,8 @@
 ---
 title: "2019 Layer7 CTF How old are you?"
 date: 2020-1-6
-tags: [Layer7]
-categories: [Layer7]
+ctf: Layer7 CTF
+layout: post
 ---
 
 seccomp 걸려있는 바이너리다. orw하는 문제라는데 `sys_open` 이 막혀있어서 `sys_openat` 을 이용해서 bypass 해서 파일 읽어오면 될거다.

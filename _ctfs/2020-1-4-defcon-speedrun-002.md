@@ -1,8 +1,8 @@
 ---
 title: "2019 Defcon CTF speedrun-002"
 date: 2020-1-4
-tags: [Defcon]
-categories: [Defcon]
+ctf: Defcon CTF
+layout: post
 ---
 
 매우 간단한 바이너리다. strncmp로 비교해서 `Everything ...` 과 같으면  `sub_400705` 함수로 가는데 이 함수에서 취약점 터진다.

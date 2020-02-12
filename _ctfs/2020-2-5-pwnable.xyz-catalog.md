@@ -1,8 +1,8 @@
 ---
 title: "[pwnable.xyz]catalog"
 date: 2020-2-5
-tags: [pwnable.xyz]
-categories: [pwnable.xyz]
+ctf: Pwnable.xyz
+layout: post
 ---
 
 ```c

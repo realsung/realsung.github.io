@@ -1,8 +1,8 @@
 ---
 title: "2019 Defcon CTF speedrun-001"
 date: 2020-1-4
-tags: [Defcon]
-categories: [Defcon]
+ctf: Defcon CTF
+layout: post
 ---
 
 statically linked이고 stripped 돼있다.

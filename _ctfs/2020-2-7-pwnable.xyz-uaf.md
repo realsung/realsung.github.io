@@ -1,8 +1,8 @@
 ---
 title: "[pwnable.xyz]uaf"
 date: 2020-2-7
-tags: [pwnable.xyz]
-categories: [pwnable.xyz]
+ctf: Pwnable.xyz
+layout: post
 ---
 
 ```c
