@@ -295,7 +295,7 @@ print ''.join(chr((~x^0x43) & 255) for x in table)
 
 arm_asm.s 파일이 주어져서 핸드레이를 해야한다.
 
-```assembly
+```
 flag:
 	.ascii	"]cX^r@VC`b*V+idVk_+eVD(gjt\000"
 main:
