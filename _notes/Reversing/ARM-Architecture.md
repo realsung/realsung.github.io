@@ -2,6 +2,7 @@
 layout: post
 type: note
 title: ARM Architecture
+alias: Reversing
 ---
 
 ARM 아키텍쳐에 대해 정리해놓으려고 한다.

@@ -2,6 +2,7 @@
 layout: post
 type: note
 title: Canary
+alias: Pwnable
 ---
 
 64비트 기준으로 작성했습니다.

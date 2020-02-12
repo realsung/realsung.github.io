@@ -2,6 +2,7 @@
 layout: post
 type: note
 title: CTF TIPS
+alias: CTF
 ---
 
 # Binary Tips
