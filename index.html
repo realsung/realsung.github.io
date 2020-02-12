@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+{% include intro.html %}
+
+<section class="post-list">
+    <div class="container">
+        {% for post in paginator.posts %}
+            <div class="post-preview">
+                <div class="post-time">
+                    <time>{{ post.date | date: '%B %d, %Y '}}</time>
+                </div>
+                <div class="post-title">
+                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                        {{ post.title }}
+                    </a>
+                </div>
+                <!-- <div style="clear:both"></div> -->
+            </div>
+        {% endfor %}
+    </div>
+</section>
