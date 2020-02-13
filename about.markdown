@@ -35,7 +35,7 @@ Completion : Seoul Women's University School of Talented Education 6th
 
 ### 2019 교외
 
-2st place, Christmas CTF (1000USD) (Team Anti PPP)
+2nd place, Christmas CTF (1000USD) (Team Anti PPP)
 
 1st place, 전국 고등학생 보안경진대회 (500USD)
 
