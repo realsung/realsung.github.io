@@ -56,7 +56,7 @@ Canary 걸려있는 바이너리를 hexray로 보면 v5가 canary다.
 
 Stack Canary가 있는 바이너리와 없는 바이너리를 비교하겠습니다.
 
-```assembly
+```
 pwndbg> disassemble main
 Dump of assembler code for function main:
    0x00000000004005d6 <+0>:	push   rbp
