@@ -18,3 +18,11 @@ p.sendline(stream)
 p.interactive()
 ```
 
+
+
+### Reference
+
+https://ctf-wiki.github.io/ctf-wiki/pwn/linux/io_file/fake-vtable-exploit
+
+https://www.slideshare.net/AngelBoy1/play-with-file-structure-yet-another-binary-exploit-technique
+
