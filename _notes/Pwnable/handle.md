@@ -17,9 +17,32 @@ ignore - noignore
 `info handle` 로 signal 받을 때의 정보들을 출력해준다. 
 
 ```
-$ handle SIGABRT nostop
+$ handle 14 nostop pass
 Signal        Stop	Print	Pass to program	Description
-SIGABRT       No	Yes	Yes		Aborted
+SIGALRM       No	Yes	No		Alarm clock
 ```
 
-위와 같이해주면 SIGABRT가 떠도 계속 디버깅이 가능하다.
+위와 같이해주면 handle 14번이 떠도 계속 디버깅이 가능하다. 
+
+```
+$ handle SIGALRM noprint nostop pass
+Signal        Stop	Print	Pass to program	Description
+SIGALRM       No	No	Yes		Alarm clock
+```
+
+Segmentation fault
+
+```
+$ handle SIGSEGV noprint nostop pass
+```
+
+or 
+
+```
+$ handle SIGALRM ignore
+```
+
+## Reference 
+
+http://man7.org/linux/man-pages/man7/signal.7.html
+
