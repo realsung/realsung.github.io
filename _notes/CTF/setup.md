@@ -25,6 +25,7 @@ cp ~/Pwngdb/.gdbinit ~/
 # chmod 777 setupdbg.sh
 # ./setupdbg.sh
 
+sudo apt-get install git
 sudo apt-get install zsh -y
 sudo chsh -s /usr/bin/zsh
 sudo sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
@@ -39,5 +40,12 @@ sudo pip install ropgadget -y
 
 sudo dpkg --add-architecture i386
 sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 -y
+
+sudo apt-get install z3
+git clone https://github.com/Z3Prover/z3.git
+cd z3
+cd build
+make
+sudo make install
 ```
 
