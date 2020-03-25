@@ -100,30 +100,6 @@ timetravel로 검색해보면 http://timetravel.mementoweb.org/list/201908182335
 
 ## Warmup : Welcome to securinets CTF
 
-```c
-__int64 __fastcall main(__int64 a1, char **a2, char **a3)
-{
-  size_t v3; // rax
-  int v5; // [rsp+8h] [rbp-8h]
-  signed int i; // [rsp+Ch] [rbp-4h]
-
-  write(1, "Welcome to SECURINETS CTF\n", 0x1AuLL);
-  read(0, s, 0x31uLL);
-  s[strlen(s) - 1] = 0;
-  v5 = 0;
-  strcpy(dest, s);
-  v3 = strlen(s);
-  memfrob(s, v3);
-  for ( i = 0; i <= 19; ++i )
-    v5 += (s[i] ^ byte_201020[i]);
-  if ( v5 )
-    puts(":(...");
-  else
-    printf("Good job\nYou can submit with securinets{%s}\n", dest);
-  return 0LL;
-}
-```
-
 > solve.py
 
 ```python
