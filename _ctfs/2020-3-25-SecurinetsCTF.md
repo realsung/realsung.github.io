@@ -90,7 +90,7 @@ wdigest  STUDIO-PC$       WORKGROUP
 
 chromehistory를 보게되면 `http://52.205.164.112/` 라는 사이트에 접근한적이 있다 다른 것은 다 neymar에 대해 검색했다. 
 
-timetravel로 검색해보면 http://timetravel.mementoweb.org/list/20190818233503/http://52.205.164.112 archive해둔게 나온다. https://web.archive.org/web/20200318121831/http://52.205.164.112 여기들어가면 `Securinets{█████_1s_my_f4vorit3_Pl4yer}` 를 주는데 █████에 neymar를 넣으면 된다.
+timetravel로 검색해보면 http://timetravel.mementoweb.org/list/20190818233503/http://52.205.164.112 archive해둔게 나온다. https://web.archive.org/web/20200318121831/http://52.205.164.112 여기들어가면 네모로 되어있는거 주는데 거기에 neymar 넣으면 된다.
 
 **FLAG : `Securinets{neymar_1s_my_f4vorit3_Pl4yer}`**
 
