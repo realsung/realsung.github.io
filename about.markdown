@@ -92,12 +92,3 @@ Bronze prize, 고등해커 본선
 ### 2017 교외
 
 Gold prize, 소프트웨어 올림피아드 
-
-<br />
-
-### 해외
-
-[1st place, 2019 UTC-CTF (Team Defenit)](https://ctftime.org/event/948)
-
-[16th place, 2019 X-MAS CTF (Team Defenit)](https://ctftime.org/event/926)
-

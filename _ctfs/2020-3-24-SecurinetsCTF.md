@@ -1,6 +1,6 @@
 ---
 title: "2020 Securinets CTF Quals"
-date: 2020-3-18
+date: 2020-3-24
 ctf: Securinets CTF
 layout: post
 ---
