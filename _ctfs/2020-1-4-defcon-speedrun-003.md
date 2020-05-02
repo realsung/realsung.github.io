@@ -74,6 +74,8 @@ unsigned __int64 get_that_shellcode()
 
 23바이트 쉘코드를 가져와서 패딩 7바이트를 넣어서 실행시켜줬다.
 
+> exploit.py
+
 ```python
 from pwn import *
 
