@@ -31,6 +31,8 @@ Completion : Seoul Women's University School of Talented Education 6th
 
 [12th place, Codegate CTF Preliminary Junior](https://ctftime.org/event/938)
 
+[Organizer, Defenit CTF 2020](https://ctftime.org/event/1060)
+
 <br />
 
 ### 2019 교외
