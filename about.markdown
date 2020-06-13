@@ -31,6 +31,8 @@ Completion : Seoul Women's University School of Talented Education 6th
 
 [12th place, Codegate CTF Preliminary Junior](https://ctftime.org/event/938)
 
+3rd place, m0leCon CTF 2020 Teaser (Team Alpray)
+
 [Organizer, Defenit CTF 2020](https://ctftime.org/event/1060)
 
 <br />
@@ -41,7 +43,7 @@ Completion : Seoul Women's University School of Talented Education 6th
 
 1st place, 전국 고등학생 보안경진대회 (500USD)
 
-서울여자대학교 정보보호영재교육원 우수 학생 (500USD)
+서울여자대학교 정보보호영재교육원 최우수 학생 (500USD)
 
 2nd place, 특성화 고교생 화이트해커 경진대회 (1000USD)
 
