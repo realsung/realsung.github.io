@@ -18,7 +18,15 @@ p.sendline(stream)
 p.interactive()
 ```
 
+dbg
 
+```
+print (((_IO_strfile *) fp)->_s._free_buffer)
+_IO_str_jumps
+p *(struct _IO_jump_t *)vtable
+p/x (*(struct _IO_FILE *) fp)
+p/x (*(struct _IO_FILE_plus *) fp)
+```
 
 ### Reference
 
