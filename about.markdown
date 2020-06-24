@@ -21,7 +21,9 @@ Interests : Dev, Pwn, Rev
 
 Team : [Defenit](https://defenit.kr)
 
-Completion : Seoul Women's University School of Talented Education 6th
+Completion : [Seoul Women's University School of Talented Education 6th](http://security.swu.ac.kr/giftedu)
+
+Completion : [KITRI Best of the Best 9th Vulnerability Analysis Track](https://www.kitribob.kr/)
 
 <br />
 
