@@ -43,6 +43,8 @@ int main()
 }
 ```
 
+malloc을 3번해준 후 double free를 해준다. 그러면 1st malloc(8)과 3rd malloc(8)이 같은 힙 영역을 가르키게 된다.
+
 fake chunk를 구성해줘야 하는 이유 - 사이즈 검사
 
 ```c
