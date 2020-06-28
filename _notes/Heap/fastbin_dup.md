@@ -2,7 +2,7 @@
 layout: post
 type: note
 title: fastbin dup
-alias: Pwnable
+alias: Heap
 ---
 
 how2heap fastbin_dup.c
