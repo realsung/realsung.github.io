@@ -1,5 +1,5 @@
 ---
-title: "2017 RCTF stringer"
+title: "2018RCTF stringer"
 date: 2020-7-6
 ctf: RCTF
 layout: post
