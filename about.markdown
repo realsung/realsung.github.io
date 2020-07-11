@@ -49,6 +49,8 @@ Completion : [KITRI Best of the Best 9th Vulnerability Analysis Track](https://w
 
 서울여자대학교 정보보호영재교육원 최우수 학생 (500USD)
 
+1st place, POC 2019 Theori Reversing SpeedHack 
+
 2nd place, 특성화 고교생 화이트해커 경진대회 (1000USD)
 
 2nd place, 전국 영재원 정보보안 경진대회 단체전 (300USD + Tablet PC)
