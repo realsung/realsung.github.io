@@ -31,33 +31,35 @@ Completion : [KITRI Best of the Best 9th Vulnerability Analysis Track](https://w
 
 ### 2020 교외
 
-2nd place, ASIS CTF 2020 Quals (Team DefenitelyZer0)
+[2nd place, ASIS CTF 2020 Quals (Team DefenitelyZer0)](https://ctftime.org/event/964)
 
-[12th place, Codegate CTF Preliminary Junior](https://ctftime.org/event/938)
-
-3rd place, m0leCon CTF 2020 Teaser (Team Alpray)
+[3rd place, m0leCon CTF 2020 Teaser (Team Alpray)](https://ctftime.org/event/1025)
 
 [Organizer, Defenit CTF 2020](https://ctftime.org/event/1060)
+
+[2nd place, Securinets CTF (Team Defenit)](https://ctftime.org/event/1016)
+
+[12th place, Codegate CTF Preliminary Junior](https://ctftime.org/event/938)
 
 <br />
 
 ### 2019 교외
 
-2nd place, Christmas CTF (1000USD) (Team Anti PPP)
+[2nd place, Christmas CTF (1000USD) (Team Anti PPP)](https://www.dailysecu.com/news/articleView.html?idxno=90543)
 
-1st place, 전국 고등학생 보안경진대회 (500USD)
+[1st place, 전국 고등학생 보안경진대회 (500USD)](https://www.etnews.com/20191210000026)
 
 서울여자대학교 정보보호영재교육원 최우수 학생 (500USD)
 
-1st place, POC 2019 Theori Reversing SpeedHack 
+[1st place, POC 2019 Theori Reversing SpeedHack](https://github.com/theori-io/SpeedHack-POC2019)
 
 2nd place, 특성화 고교생 화이트해커 경진대회 (1000USD)
 
-2nd place, 전국 영재원 정보보안 경진대회 단체전 (300USD + Tablet PC)
+[2nd place, 전국 영재원 정보보안 경진대회 단체전 (300USD + Tablet PC)](https://www.eduinnews.co.kr/news/articleView.html?idxno=22275)
 
 5th place, holyshied CTF Junior
 
-Silver prize, 제 14회 정보보호올림피아드 (500USD)
+[Silver prize, 제 14회 정보보호올림피아드 (500USD)](https://www.boannews.com/media/view.asp?idx=84150)
 
 3rd place, The Hacking Championship Junior 2019 예선
 
@@ -102,3 +104,4 @@ Bronze prize, 고등해커 본선
 ### 2017 교외
 
 Gold prize, 소프트웨어 올림피아드 
+
