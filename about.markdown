@@ -31,6 +31,8 @@ Completion : [KITRI Best of the Best 9th Vulnerability Analysis Track](https://w
 
 ### 2020 교외
 
+[6th place, rgb CTF (Team Defenit⨳CTF.SG)](https://ctftime.org/event/1042)
+
 [2nd place, ASIS CTF 2020 Quals (Team DefenitelyZer0)](https://ctftime.org/event/964)
 
 [3rd place, m0leCon CTF 2020 Teaser (Team Alpray)](https://ctftime.org/event/1025)
