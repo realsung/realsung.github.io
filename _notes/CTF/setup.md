@@ -3,6 +3,7 @@ layout: post
 type: note
 title: Ubuntu setup
 alias: CTF
+published : false
 ---
 
 Ubuntu setup

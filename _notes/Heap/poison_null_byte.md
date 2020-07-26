@@ -3,6 +3,7 @@ layout: post
 type: note
 title: Poison Null Byte
 alias: Heap
+published : false
 ---
 
 how2heap poison_null_byte.c

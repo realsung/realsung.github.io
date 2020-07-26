@@ -3,6 +3,7 @@ layout: post
 type: note
 title: fastbin dup
 alias: Heap
+published : false
 ---
 
 how2heap fastbin_dup.c

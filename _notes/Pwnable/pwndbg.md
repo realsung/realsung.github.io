@@ -3,6 +3,7 @@ layout: post
 type: note
 title: Pwndbg
 alias: Pwnable
+published : false
 ---
 
 `magic` - glibc에서 유용한 변수와 함수를 표시

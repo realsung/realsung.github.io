@@ -3,6 +3,7 @@ layout: post
 type: note
 title: Overlapping chunks
 alias: Heap
+published : false
 ---
 
 how2heap overlapping_chunks.c

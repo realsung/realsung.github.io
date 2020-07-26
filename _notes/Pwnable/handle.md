@@ -3,6 +3,7 @@ layout: post
 type: note
 title: GDB handle
 alias: Pwnable
+published : false
 ---
 
 gdb 사용하다가 signal 뜰 때 디버깅 계속하려면 handle instuction을 사용하면 된다.

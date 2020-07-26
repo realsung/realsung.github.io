@@ -3,6 +3,7 @@ layout: post
 type: note
 title: vtable bypass
 alias: Pwnable
+published : false
 ---
 
 fake _IO_FILE Structure를 만들어 vtable의 조작된 함수 포인터가 실행되게 만들면 된다.
