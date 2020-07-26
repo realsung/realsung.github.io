@@ -3,6 +3,7 @@ title: "[pwnable.xyz]bookmark"
 date: 2020-2-1
 ctf: Pwnable.xyz
 layout: post
+published : false
 ---
 
 랭킹 1페이지 찍엇당..

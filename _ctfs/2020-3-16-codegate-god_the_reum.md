@@ -3,6 +3,7 @@ title: "2019 Codegate god-the-reum"
 date: 2020-3-16
 ctf: Codegate CTF
 layout: post
+published : false
 ---
 
 * tcache exploit (glibc 2.27)

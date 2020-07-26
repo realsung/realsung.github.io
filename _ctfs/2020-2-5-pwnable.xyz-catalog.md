@@ -3,6 +3,7 @@ title: "[pwnable.xyz]catalog"
 date: 2020-2-5
 ctf: Pwnable.xyz
 layout: post
+published : false
 ---
 
 ```c

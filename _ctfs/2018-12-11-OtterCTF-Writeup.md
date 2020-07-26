@@ -3,6 +3,7 @@ layout: post
 title: "2018 Otter CTF Writeup"
 date: 2018-12-11
 ctf: Otter CTF
+published : false
 ---
 
 ### 1 - What the password? - 100pt

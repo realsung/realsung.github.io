@@ -3,6 +3,7 @@ title: "2019 Defcon CTF speedrun-010"
 date: 2020-1-13
 ctf: Defcon CTF
 layout: post
+published : false
 ---
 
 보호기법은 다 걸려있는 64비트 바이너리다.

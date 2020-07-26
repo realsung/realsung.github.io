@@ -3,6 +3,7 @@ title: "[pwnable.xyz]badayum"
 date: 2020-2-2
 ctf: Pwnable.xyz
 layout: post
+published : false
 ---
 
 `sub_D48` 함수에서 랜덤 텍스트를 뿌려준다. 그리고 우리는 그 길이+1 만큼 입력 가능하다.

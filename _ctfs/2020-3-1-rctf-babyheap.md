@@ -3,6 +3,7 @@ title: "2018 RCTF babyheap"
 date: 2020-3-1
 ctf: RCTF
 layout: post
+published : false
 ---
 
 Poison null byte 취약점이 발생한다. 두 청크를 한 청크를 가르키게 하고 하나는 free해주고 show해주면 leak이 가능하고 fastbin dup해주면 된다. 

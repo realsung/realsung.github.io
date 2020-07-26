@@ -3,6 +3,7 @@ title: "2018 Codegate heapbabe"
 date: 2020-3-16
 ctf: Codegate CTF
 layout: post
+published : false
 ---
 
 조금 신기하고 재밌게 풀었다. 

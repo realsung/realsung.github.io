@@ -3,6 +3,7 @@ title: "[HackCTF]SysROP"
 date: 2019-12-29
 ctf: HackCTF
 layout: post
+published : false
 ---
 
 그냥 웬만한 gadget 다 있길래 그냥 릭해서 풀라고 했는데 출력함수가 없었다.. 근데 가젯중에 `0x00000000004005ea : pop rax ; pop rdx ; pop rdi ; pop rsi ; ret` 이런게 존재해서 rax에 syscall 번호를 넣어주고 가젯들 세팅해주면 syscall을 이용할 수 있을거다. read 함수에서 syscall이 있어서 이를 이용하면 될거다.

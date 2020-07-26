@@ -3,6 +3,7 @@ title: "2015 Plaid CTF EBP"
 date: 2020-1-27
 ctf: Plaid CTF
 layout: post
+published : false
 ---
 
 32비트 바이너리고 Partial RELRO밖에 안 걸려있다.

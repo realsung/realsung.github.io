@@ -3,6 +3,7 @@ title: "2019 Defcon CTF speedrun-001"
 date: 2020-1-4
 ctf: Defcon CTF
 layout: post
+published : false
 ---
 
 statically linked이고 stripped 돼있다.

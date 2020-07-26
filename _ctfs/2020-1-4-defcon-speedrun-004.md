@@ -3,6 +3,7 @@ title: "2019 Defcon CTF speedrun-004"
 date: 2020-1-4
 ctf: Defcon CTF
 layout: post
+published : false
 ---
 
 257바이트만큼 입력받을 수 있어서 off-by-one으로 sfp 1byte만큼 덮을 수 있다. buf에 payload작성하고 글루 리턴해주면 된다. 그런데 스택주소가 계속 바껴서 확률적으로 쉘이 따인다.

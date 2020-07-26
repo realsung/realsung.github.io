@@ -3,6 +3,7 @@ title: "2020 Zer0pts CTF hipwn"
 date: 2020-3-20
 ctf: Zer0pts CTF
 layout: post
+published : false
 ---
 
 ```c

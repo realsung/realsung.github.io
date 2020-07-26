@@ -3,6 +3,7 @@ title: "2018 SECCON CTF kindvm"
 date: 2020-7-12
 ctf: SECCON CTF
 layout: post
+published : false
 ---
 
 구조체는 이런식으로 만들었다.

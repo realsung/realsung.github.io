@@ -3,6 +3,7 @@ title: "2018 TenDollar CTF Sandbox School2"
 date: 2020-2-13
 ctf: TenDollar CTF
 layout: post
+published : false
 ---
 
 `install_syscall_filter` 함수에서 prctl함수로 syscall 필터링을 해준다. 

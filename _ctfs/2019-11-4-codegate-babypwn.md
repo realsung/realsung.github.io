@@ -3,6 +3,7 @@ layout: post
 title: "2017 Codegate babypwn"
 date: 2019-11-4
 ctf: Codegate CTF
+published : false
 ---
 
 Reverse Shell을 열어서 풀면 된다.

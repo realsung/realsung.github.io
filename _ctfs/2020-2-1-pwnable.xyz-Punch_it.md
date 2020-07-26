@@ -3,6 +3,7 @@ title: "[pwnable.xyz]Punch it"
 date: 2020-2-1
 ctf: Pwnable.xyz
 layout: post
+published : false
 ---
 
 와 진짜 이 문제 서버로 전송하는 게 너무 많아서 서버가 미국 서부에 있다길래 로스엔젤레스 서버 하나 파서 풀었다.. 확실히 한국에서 돌리면 시간 초과되거나 중간에 서버 죽는데 미국서버 파서 돌리니까 20초면 풀린다.. 

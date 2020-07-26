@@ -3,6 +3,7 @@ title: "2016 Christmas CTF Who is solo?"
 date: 2020-1-19
 ctf: Christmas CTF
 layout: post
+published : false
 ---
 
 64비트 바이너리고 Partial RELRO, NX, FORTIFY가 걸려있다.

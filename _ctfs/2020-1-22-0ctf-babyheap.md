@@ -3,6 +3,7 @@ title: "2017 0ctf babyheap"
 date: 2020-1-22
 ctf: 0CTF
 layout: post
+published : false
 ---
 
 64비트 바이너리다. 

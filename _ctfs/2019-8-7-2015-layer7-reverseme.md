@@ -3,6 +3,7 @@ layout: post
 title: "2015 Layer7 CTF ReverseMe"
 date: 2019-8-7
 ctf: Layer7 CTF
+published : false
 ---
 
  `로꾸꺼` 는 2015년 Layer7 CTF에서라는 리버싱 150점짜리 문제이다.

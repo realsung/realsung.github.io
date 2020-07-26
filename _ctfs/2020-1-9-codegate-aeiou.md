@@ -3,6 +3,7 @@ title: "2019 Codegate aeiou"
 date: 2020-1-9
 ctf: Codegate CTF
 layout: post
+published : false
 ---
 
 64bit 바이너리가 주어진다.

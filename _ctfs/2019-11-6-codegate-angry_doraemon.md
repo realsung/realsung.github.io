@@ -3,6 +3,7 @@ layout: post
 title: "2014 Codegate angry_doraemon"
 date: 2019-11-6
 ctf: Codegate CTF
+published : false
 ---
 
 codegate babypwn하고 비슷한 문제다. fork되어서 canary값은 고정이므로 canary leak해주고 ROP해주면 된다.

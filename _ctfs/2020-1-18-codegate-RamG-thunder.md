@@ -3,6 +3,7 @@ title: "2017 Codegate RamG thunder"
 date: 2020-1-18
 ctf: Codegate CTF
 layout: post
+published : false
 ---
 
 처음에서 4번을 누르면 hidden menu가 존재한다. 해당 hidden menu에서 2번을 누르면 Game을 플레이할 수 있다. 이 함수에서 마지막 보면 fwrite로 c라는 파일을 생성해주는데 여기까지 가면 플래그를 얻을 수 있다. 5개 스테이지를 넘기면 된다. 

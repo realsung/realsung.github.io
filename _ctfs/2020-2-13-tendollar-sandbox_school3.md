@@ -3,6 +3,7 @@ title: "2018 TenDollar CTF Sandbox School3"
 date: 2020-2-13
 ctf: TenDollar CTF
 layout: post
+published : false
 ---
 
 `Sandbox School2` 이랑 다른점은 0xf,0x5를 필터링해서 syscall을 직접적으로 호출 할 수 없게되었다.
