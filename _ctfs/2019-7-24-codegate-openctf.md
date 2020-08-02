@@ -3,7 +3,6 @@ layout: post
 title: "2019 Codegate open CTF Writeup"
 date: 2019-7-24
 ctf: Codegate CTF
-published : false
 ---
 
 # Reversing

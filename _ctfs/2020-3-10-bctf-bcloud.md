@@ -3,7 +3,6 @@ title: "2016 BCTF bcloud"
 date: 2020-3-6
 ctf: BCTF
 layout: post
-published : false
 ---
 
 처음에 name 입력받을 때 꽉채워버리면 heap주소가 붙어있어서 leak해줄 수 있고 바로 뒤에 orgs를 꽉채우고 host에 0xffffffff를 보내면 topchunk를 덮어버릴 수 있다.`house of force` 취약점으로 atoi@got를 printf@plt로 덮어서 fsb로 libc leak 해주고 또 printf를 system함수로 덮고 인자로 /bin/sh\x00 넘기면 쉘 딸 수 있다.

@@ -3,7 +3,6 @@ layout: post
 title: "2017 Dimi CTF Prequal WhatIsTheEnd"
 date: 2019-7-27
 ctf: DIMI CTF
-published : false
 ---
 
 메인을 보면 33글자를 입력받을 받는다.  그리고 어떠한 연산을 하고 맞는지 비교해준다.

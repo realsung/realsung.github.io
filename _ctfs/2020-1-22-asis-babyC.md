@@ -3,7 +3,6 @@ title: "2018 ASIS CTF baby C"
 date: 2020-1-22
 ctf: ASIS CTF
 layout: post
-published : false
 ---
 
 `mov`, `jmp` 등 이런 instrucion만 이용한 [movfuscator](https://github.com/xoreaxeaxeax/movfuscator) 로 난독화된 바이너리다. 

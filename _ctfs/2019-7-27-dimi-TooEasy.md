@@ -3,7 +3,6 @@ layout: post
 title: "2017 Dimi CTF Final TooEasy"
 date: 2019-7-27
 ctf: DIMI CTF
-published : false
 ---
 
 시드값 정해주고 랜덤 값 가져와서 어떠한 연산을 한 뒤에 마지막에는 저장되어 있는 값과 비교 연산을 한다.

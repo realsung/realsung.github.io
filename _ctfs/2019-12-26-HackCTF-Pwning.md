@@ -3,7 +3,6 @@ title: "[HackCTF]pwning"
 date: 2019-12-26
 ctf: HackCTF
 layout: post
-published : false
 ---
 
 그냥 underflow 이용해서 입력할 수 있는 공간을 늘려줄 수 있다면 쉽게 풀 수 있다.

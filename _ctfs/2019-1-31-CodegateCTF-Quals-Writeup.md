@@ -3,7 +3,6 @@ layout: post
 title: "2019 Codegate Quals Writeup"
 date: 2019-1-31
 ctf: Codegate CTF
-published : false
 ---
 
 > 팀명 : 앙진헌띠

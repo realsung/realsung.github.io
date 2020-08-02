@@ -3,7 +3,6 @@ title: "[HackCTF]babyheap"
 date: 2020-2-16
 ctf: HackCTF
 layout: post
-published : false
 ---
 
 메뉴는 3가지로 malloc, free, show할 수 있다. 우리가 생성할 수 있는 청크가 최대 6개다. 

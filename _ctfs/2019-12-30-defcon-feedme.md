@@ -3,7 +3,6 @@ title: "2016 Defcon CTF Feedme"
 date: 2019-12-30
 ctf: Defcon CTF
 layout: post
-published : false
 ---
 
 ```

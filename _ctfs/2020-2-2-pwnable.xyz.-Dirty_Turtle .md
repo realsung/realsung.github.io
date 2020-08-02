@@ -3,7 +3,6 @@ title: "[pwnable.xyz]Dirty Turtle"
 date: 2020-2-2
 ctf: Pwnable.xyz
 layout: post
-published : false
 ---
 
 원하는 주소에 원하는 값을 쓸 수 있다.

@@ -3,7 +3,6 @@ title: "2020 Pwn2Win CTF At Your Command"
 date: 2020-6-6
 ctf: Pwn2Win CTF
 layout: post
-published : false
 ---
 
 * glibc 2.27 tcache

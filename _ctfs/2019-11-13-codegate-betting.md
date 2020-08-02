@@ -3,7 +3,6 @@ layout: post
 title: "2018 Codegate betting"
 date: 2019-11-13
 ctf: Codegate CTF
-published : false
 ---
 
 x64 Canary Leak 문제다.

@@ -3,7 +3,6 @@ title: "2018 TenDollar CTF Burn it"
 date: 2020-2-17
 ctf: TenDollar CTF
 layout: post
-published : false
 ---
 
 좀 재밌게 풀었다 뭐 문제에 기능은 많은데 한 함수에서 모든걸 다 해결해버릴 수 있다.

@@ -3,7 +3,6 @@ title: "2019 ASIS CTF Final Cursed app"
 date: 2020-1-22
 ctf: ASIS CTF
 layout: post
-published : false
 ---
 
 ```c

@@ -3,7 +3,6 @@ layout: post
 title: "2019 TAMU CTF Writeup"
 date: 2019-3-4
 ctf: TAMU CTF
-published : false
 ---
 
 혼자 참여해서 2472팀중에 348등 5061 points로 끝냈고 22문제를 풀었다.

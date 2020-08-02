@@ -3,7 +3,6 @@ layout: post
 title: "2018 Codegate catshop"
 date: 2019-11-13
 ctf: Codegate CTF
-published : false
 ---
 
 UAF 취약점이 발생한다. 

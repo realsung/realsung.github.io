@@ -3,7 +3,6 @@ title: "2018 TenDollar CTF Basic Heap"
 date: 2020-2-14
 ctf: TenDollar CTF
 layout: post
-published : false
 ---
 
 보호기법은 다 걸려있다.

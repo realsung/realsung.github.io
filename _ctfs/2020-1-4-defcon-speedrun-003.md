@@ -3,7 +3,6 @@ title: "2019 Defcon CTF speedrun-003"
 date: 2020-1-4
 ctf: Defcon CTF
 layout: post
-published : false
 ---
 
 쉘코드를 실행시켜야하는 문제다. 아래에서 쉘코드를 실행시켜주는데 조건을 만족 시켜아한다.

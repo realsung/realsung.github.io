@@ -3,7 +3,6 @@ title: "2019 X-MAS CTF Discount VMProtect"
 date: 2020-2-7
 ctf: X-MAS CTF
 layout: post
-published : false
 ---
 
 ```c

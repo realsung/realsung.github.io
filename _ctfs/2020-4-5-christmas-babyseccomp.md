@@ -3,7 +3,6 @@ title: "2019 Christmas CTF babyseccomp"
 date: 2020-4-5
 ctf: Christmas CTF
 layout: post
-published : false
 ---
 
 * Error based shellcoding

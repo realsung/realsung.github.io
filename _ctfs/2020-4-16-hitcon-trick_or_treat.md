@@ -3,7 +3,6 @@ title: "2019 HITCON CTF 🎃 Trick or Treat 🎃"
 date: 2020-4-16
 ctf: HITCON CTF
 layout: post
-published : false
 ---
 
 * malloc -> mmap -> libc base leak

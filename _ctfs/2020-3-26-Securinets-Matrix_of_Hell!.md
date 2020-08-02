@@ -3,7 +3,6 @@ title: "2019 Securinets CTF Quals Matrix_of_Hell!"
 date: 2020-3-26
 ctf: Securinets CTF
 layout: post
-published : false
 ---
 
 ```c

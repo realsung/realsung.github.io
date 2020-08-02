@@ -3,7 +3,6 @@ title: "[HackCTF]babyfsb"
 date: 2020-1-27
 ctf: HackCTF
 layout: post
-published : false
 ---
 
 보호기법은 RELRO, Canary, NX가 걸려있다.

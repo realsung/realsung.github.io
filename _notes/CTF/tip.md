@@ -3,7 +3,6 @@ layout: post
 type: note
 title: CTF TIPS
 alias: CTF
-published : false
 ---
 
 # Binary Tips

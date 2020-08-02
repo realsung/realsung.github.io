@@ -3,7 +3,6 @@ title: "2017 RCTF RNote"
 date: 2020-3-2
 ctf: RCTF
 layout: post
-published : false
 ---
 
 title을 입력한걸 bss영역에 저장하고 bss영역에 힙주소를 저장해놓는데 여기에서 off by one취약점이 발생한다. title을 입력할 때 17바이트를 입력할 수 있다. 왜냐하면 i=0; i<=a2까지이기 때문이다. a2로 오는 인자 값은 16인데 17바이트만큼 입력해서 힙주소를 덮을 수 있다. 

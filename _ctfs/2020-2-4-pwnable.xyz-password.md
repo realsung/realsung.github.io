@@ -3,7 +3,6 @@ title: "[pwnable.xyz]password"
 date: 2020-2-4
 ctf: Pwnable.xyz
 layout: post
-published : false
 ---
 
 보호기법 다 걸려있다.

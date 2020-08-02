@@ -3,7 +3,6 @@ title: "[HackCTF]You are silver"
 date: 2020-1-27
 ctf: HackCTF
 layout: post
-published : false
 ---
 
 main에서 fsb일어난다.

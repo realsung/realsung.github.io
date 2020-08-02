@@ -3,7 +3,6 @@ title: "[pwnable.xyz]attack"
 date: 2020-5-1
 ctf: Pwnable.xyz
 layout: post
-published : false
 ---
 
 바이너리가 좀 크지만 인풋 받는곳에서 취약점 터지는거 알면 쉽게 풀 수 있다. level1을 만들고 win주소를 player.Equip.Name에 박아놓고 level2를 만들고 skill change할 때 SkillTable에서 oob가 터져서 바꿀 수 있다 그리고 3번 메뉴로 나가서 전투에서 스킬 사용하면 win함수가 호출된다.
