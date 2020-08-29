@@ -3,7 +3,7 @@ layout: post
 title: "2019 제 14회 중고생정보보호올림피아드 풀이"
 date: 2019-9-21
 ctf: 정보보호올림피아드
-published : false
+published : true
 ---
 
 ![](https://user-images.githubusercontent.com/32904385/65372502-3862de80-dcac-11e9-87e8-fcd23ded1afe.png)
