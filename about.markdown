@@ -31,6 +31,12 @@ Completion : [KITRI Best of the Best 9th Vulnerability Analysis Track](https://w
 
 ### 2020 교외
 
+1st place, 제 2회 전국 고등학생 보안경진대회 (500USD)
+
+[Gold Prize, 정보보호올림피아드 (700USD)](https://www.boannews.com/media/view.asp?idx=91520&kind=2)
+
+[2th place, 사이버작전경연대회 (Team Exploitphile) (5000USD)](https://www.boannews.com/media/view.asp?idx=92520)
+
 [5th place, HacktivityCon CTF (Team Defenit)](https://ctftime.org/event/1101)
 
 [6th place, rgb CTF (Team Defenit⨳CTF.SG)](https://ctftime.org/event/1042)
@@ -51,7 +57,7 @@ Completion : [KITRI Best of the Best 9th Vulnerability Analysis Track](https://w
 
 [2nd place, Christmas CTF (1000USD) (Team Anti PPP)](https://www.dailysecu.com/news/articleView.html?idxno=90543)
 
-[1st place, 전국 고등학생 보안경진대회 (500USD)](https://www.etnews.com/20191210000026)
+[1st place, 제 1회 전국 고등학생 보안경진대회 (500USD)](https://www.etnews.com/20191210000026)
 
 서울여자대학교 정보보호영재교육원 최우수 학생 (500USD)
 
