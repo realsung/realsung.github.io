@@ -31,6 +31,8 @@ Completion : [KITRI Best of the Best 9th Vulnerability Analysis Track](https://w
 
 ### 2020 교외
 
+장려상, 순천향대학교 정보보보호페스티벌 (AirPod Pro)
+
 1st place, 제 2회 전국 고등학생 보안경진대회 (500USD)
 
 [Gold Prize, 정보보호올림피아드 (700USD)](https://www.boannews.com/media/view.asp?idx=91520&kind=2)
