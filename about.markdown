@@ -3,33 +3,45 @@ layout: about
 title: about me
 author: realsung
 permalink: /about
+
 ---
 
-Name : 박성준
+Hello, My name is Sungjun Park (a.k.a relausng)
 
-Nickname : realsung
+I enjoy to participate CTF(Capture The Flag) and play BugBounty.
 
-School : Sunrin Internet High School (Seoul Republic of Korea)
+I interested in Hacking, Security, Development.
 
-Department : Information Protection Division
+Another Blog : [Tistory](https://realsung.tistory.com)
 
-Club : [Unifox](http://unifox.kr)
+Contact : sungjun0208@naver.com , pwn@soongsil.ac.kr , reversing@kakao.com
 
-Contact : sungjun0208@naver.com
+<br />
 
-Interests : Dev, Pwn, Rev
+## Educated
 
-Team : [Defenit](https://defenit.kr)
+* Sunrin Internet High School (Seoul Republic of Korea) - Division of Infomation Security ( 2018 ~ 2020 )
+  - [Unifox](unifox.kr)
+* Soongsil University (Seoul Republic of Korea) - Division of Computer Software ( 2021 ~ )
 
-Completion : [Seoul Women's University School of Talented Education 6th](http://security.swu.ac.kr/giftedu)
+* Hacking Team [Defenit](defenit.kr) ( 2019 ~ )
 
-Completion : [KITRI Best of the Best 9th Vulnerability Analysis Track](https://www.kitribob.kr/)
+* [KITRI Best Of the Best](kitribob.kr) 9th Vulnerability Analysis Track ( 2020.06 ~ 2021.03 )
+* [Seoul Women’s University School of Talented](http://security.swu.ac.kr/giftedu) 6th Best Student ( 2019 )
 
 <br />
 
 ## Achievements
 
-### 2020 교외
+### 2021
+
+BoB Project NAVER BugBounty (NBB-1594) (500USD)
+
+KVE-2020-1675
+
+### 2020
+
+Uri Scheme으로 트리거하는 취약점 찾기 및 퍼저 개발 (BoB 9th Project "Team 너 URI 문제 있어?")
 
 장려상, 순천향대학교 정보보보호페스티벌 (AirPod Pro)
 
@@ -55,7 +67,7 @@ Completion : [KITRI Best of the Best 9th Vulnerability Analysis Track](https://w
 
 <br />
 
-### 2019 교외
+### 2019
 
 [2nd place, Christmas CTF (1000USD) (Team Anti PPP)](https://www.dailysecu.com/news/articleView.html?idxno=90543)
 
@@ -83,10 +95,6 @@ Finalist, 순천향대학교 정보보호페스티벌
 
 [Finalist, Codegate Junior](https://ctftime.org/event/719)
 
-<br />
-
-### 2019 교내
-
 1st place, 고등해커 본선
 
 1st place, 교내 서버 구축대회
@@ -99,21 +107,16 @@ Encouragement prize, 교내 네트워크 구축대회
 
 <br />
 
-### 2018 교외
+### 2018
 
 1st place, 제 18회 해킹캠프 (POC Ticket)
 
 4th place, KYSIS CTF (30USD)
 
-<br />
-
-### 2018 교내
-
 Bronze prize, 고등해커 본선
 
 <br />
 
-### 2017 교외
+### 2017
 
 Gold prize, 소프트웨어 올림피아드 
-
