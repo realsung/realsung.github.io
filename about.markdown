@@ -20,14 +20,15 @@ Contact : sungjun0208@naver.com , pwn@soongsil.ac.kr , reversing@kakao.com
 
 ## Educated
 
-* Sunrin Internet High School (Seoul Republic of Korea) - Division of Infomation Security ( 2018 ~ 2020 )
-  - [Unifox](unifox.kr)
-* Soongsil University (Seoul Republic of Korea) - Division of Computer Software ( 2021 ~ )
+Sunrin Internet High School (Seoul Republic of Korea) - Division of Infomation Security ( 2018 ~ 2020 )
 
-* Hacking Team [Defenit](defenit.kr) ( 2019 ~ )
+Soongsil University (Seoul Republic of Korea) - Division of Computer Software ( 2021 ~ )
 
-* [KITRI Best Of the Best](kitribob.kr) 9th Vulnerability Analysis Track ( 2020.06 ~ 2021.03 )
-* [Seoul Women’s University School of Talented](http://security.swu.ac.kr/giftedu) 6th Best Student ( 2019 )
+Hacking Team [Defenit](defenit.kr) ( 2019 ~ )
+
+[KITRI Best Of the Best](kitribob.kr) 9th Vulnerability Analysis Track ( 2020.06 ~ 2021.03 )
+
+[Seoul Women’s University School of Talented](http://security.swu.ac.kr/giftedu) 6th Best Student ( 2019 )
 
 <br />
 
@@ -37,7 +38,7 @@ Contact : sungjun0208@naver.com , pwn@soongsil.ac.kr , reversing@kakao.com
 
 BoB Project NAVER BugBounty (NBB-1594) (500USD)
 
-KVE-2020-1675
+BugBounty KVE-2020-1675
 
 ### 2020
 
