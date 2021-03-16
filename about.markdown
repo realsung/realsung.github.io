@@ -24,9 +24,9 @@ Sunrin Internet High School (Seoul Republic of Korea) - Division of Infomation S
 
 Soongsil University (Seoul Republic of Korea) - Division of Computer Software ( 2021 ~ )
 
-Hacking Team [Defenit](defenit.kr) ( 2019 ~ )
+Hacking Team [Defenit](https://defenit.kr) ( 2019 ~ )
 
-[KITRI Best Of the Best](kitribob.kr) 9th Vulnerability Analysis Track ( 2020.06 ~ 2021.03 )
+[KITRI Best Of the Best](https://kitribob.kr) 9th Vulnerability Analysis Track ( 2020.06 ~ 2021.03 )
 
 [Seoul Women’s University School of Talented](http://security.swu.ac.kr/giftedu) 6th Best Student ( 2019 )
 
