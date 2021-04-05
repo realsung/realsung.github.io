@@ -36,9 +36,11 @@ Hacking Team [Defenit](https://defenit.kr) ( 2019 ~ )
 
 ### 2021
 
+Securinets CTF Quals 7th (Team YABALGUYS)
+
 BoB Project NAVER BugBounty (NBB-1594) (500USD)
 
-BugBounty KVE-2020-1675
+BoB Project KISA BugBounty (KVE-2020-1668, 1669, 1670, 1671, 1672, 1673, 1674, 1675, 1682, 1683, 1684, 1685, 1686, 1689)
 
 ### 2020
 
@@ -57,6 +59,8 @@ Uri Scheme으로 트리거하는 취약점 찾기 및 퍼저 개발 (BoB 9th Pro
 [6th place, rgb CTF (Team Defenit⨳CTF.SG)](https://ctftime.org/event/1042)
 
 [2nd place, ASIS CTF 2020 Quals (Team DefenitelyZer0)](https://ctftime.org/event/964)
+
+[1th place, m0leCon CTF 2020 (Team Alpray)](https://ctftime.org/event/1135)
 
 [3rd place, m0leCon CTF 2020 Teaser (Team Alpray)](https://ctftime.org/event/1025)
 
