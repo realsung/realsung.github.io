@@ -6,4 +6,4 @@ permalink: /about
 
 ---
 
-Moved to [New Blog](http://blog.sung.pw/about)
+Moved to [New Blog](http://blog.realsung.kr/about)
